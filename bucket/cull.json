@@ -1,13 +1,13 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "description": "jq for HTML: select with CSS selectors, shape into JSON, CSV, Markdown, or text",
     "homepage": "https://rashida-thorne.github.io/cull/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rashida-thorne/cull/releases/download/v0.6.0/cull-v0.6.0-x86_64-pc-windows-msvc.zip",
-            "hash": "06aa6fa8a27331790e06183bd88d024f281b47a1e58c19813d2d01beed9eb695",
-            "extract_dir": "cull-v0.6.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/rashida-thorne/cull/releases/download/v0.7.0/cull-v0.7.0-x86_64-pc-windows-msvc.zip",
+            "hash": "8ff37c91bef0a8982ab1b0d8fe94a2cb4e05b1ec398bd6ea1c22b651fc1da7cf",
+            "extract_dir": "cull-v0.7.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": "cull.exe",
